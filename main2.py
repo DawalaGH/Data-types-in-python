@@ -1,4 +1,4 @@
-#assign values to variables
+#assign values to variables 
 name="Mufasa"
 age=30
 is_student=False
@@ -10,7 +10,7 @@ print("is_student:",is_student,type(is_student))
 print("weight:",weight,type(weight))
 
 #typecasting
-print("/n After Typecasting:-")
+print("\n After Typecasting:")
 age=str(30)
 print("Age:", age,type(age))
 weight=bool(54.55)
